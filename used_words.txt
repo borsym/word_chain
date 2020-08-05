@@ -1,6 +1,0 @@
-run = True
-while run:
-    print("Write 'exit' for give up or write your word:")
-    word = str(input())
-    if word.upper() == "EXIT":
-        run = Fals
